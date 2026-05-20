@@ -1,0 +1,84 @@
+@VentasAPI_HostAddress = https://localhost:7114
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjEiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbmlzdHJhZG9yIiwiZXhwIjoxNzc4NzMzNTAxLCJpc3MiOiJWZW50YXNBUEkiLCJhdWQiOiJWZW50YXNXaW5kb3dzRm9ybXMifQ.x4VN9NpRYcJ0Se2d0lhkjTEkwoifWAQjIE8qMg_smyQ
+
+
+### Login
+POST {{VentasAPI_HostAddress}}/api/Auth/login
+Content-Type: application/json
+
+{
+  "usuario": "admin",
+  "password": "123"
+}
+
+### Obtener vendedores SIN token, debe dar 401
+GET {{VentasAPI_HostAddress}}/api/Vendedores
+Accept: application/json
+
+### Obtener vendedores CON token
+GET {{VentasAPI_HostAddress}}/api/Vendedores
+Accept: application/json
+Authorization: Bearer {{token}}
+
+### Obtener vendedor por ID CON token
+GET {{VentasAPI_HostAddress}}/api/Vendedores/1
+Accept: application/json
+Authorization: Bearer {{token}}
+
+### Registrar vendedor CON token
+POST {{VentasAPI_HostAddress}}/api/Vendedores/registrar
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "nombre": "Vendedor Nuevo"
+}
+
+### Actualizar vendedor CON token
+PUT {{VentasAPI_HostAddress}}/api/Vendedores/3
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "nombre": "Luis Actualizado"
+}
+
+# ### Eliminar vendedor CON token - NO EJECUTAR SIN QUERER
+# DELETE {{VentasAPI_HostAddress}}/api/Vendedores/1
+# Accept: application/json
+# Authorization: Bearer {{token}}
+
+### Registrar venta CON token
+POST {{VentasAPI_HostAddress}}/api/Ventas/registrar
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "idVendedor": 1,
+  "montoVenta": 4500
+}
+
+### Obtener resumen de ventas CON token
+GET {{VentasAPI_HostAddress}}/api/Ventas/resumen
+Accept: application/json
+Authorization: Bearer {{token}}
+
+### Obtener venta por ID CON token
+GET {{VentasAPI_HostAddress}}/api/Ventas/1
+Accept: application/json
+Authorization: Bearer {{token}}
+
+### Obtener ventas por vendedor CON token
+GET {{VentasAPI_HostAddress}}/api/Ventas/vendedor/1
+Accept: application/json
+Authorization: Bearer {{token}}
+
+### Obtener mejor vendedor CON token
+GET {{VentasAPI_HostAddress}}/api/Ventas/mejor-vendedor
+Accept: application/json
+Authorization: Bearer {{token}}
+
+# ### Eliminar venta CON token - NO EJECUTAR SIN QUERER
+# DELETE {{VentasAPI_HostAddress}}/api/Ventas/1
+# Accept: application/json
+# Authorization: Bearer {{token}}

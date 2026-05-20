@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\ventasapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\ventasapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\services\\comisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\services\\comisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\dtos\\ventarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\dtos\\ventarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\dtos\\vendedorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\dtos\\vendedorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\migrations\\20260510174231_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\migrations\\20260510174231_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|c:\\users\\kevin\\source\\repos\\sistemaventasvendedor\\ventasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93F75624-5FDC-CBC2-0EE1-2B3891D11E90}|VentasAPI\\VentasAPI.csproj|solutionrelative:ventasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComisionService.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Services\\ComisionService.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Services\\ComisionService.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Services\\ComisionService.cs",
+              "RelativeToolTip": "VentasAPI\\Services\\ComisionService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T01:53:33.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Controllers\\VendedoresController.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Controllers\\VendedoresController.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Controllers\\VendedoresController.cs",
+              "RelativeToolTip": "VentasAPI\\Controllers\\VendedoresController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:17:16.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\DTOs\\VentaRequest.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\DTOs\\VentaRequest.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\DTOs\\VentaRequest.cs",
+              "RelativeToolTip": "VentasAPI\\DTOs\\VentaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T02:01:12.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Program.cs",
+              "RelativeToolTip": "VentasAPI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:05:26.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "VentasAPI\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAUwNAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:22:53.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "VentasAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T18:21:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasAPI.http",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\VentasAPI.http",
+              "RelativeDocumentMoniker": "VentasAPI\\VentasAPI.http",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\VentasAPI.http",
+              "RelativeToolTip": "VentasAPI\\VentasAPI.http",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-13T01:32:35.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "VentasAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:00:19.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Models\\Venta.cs",
+              "RelativeToolTip": "VentasAPI\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:54:14.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Models\\Vendedor.cs",
+              "RelativeToolTip": "VentasAPI\\Models\\Vendedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:53:22.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VendedorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\DTOs\\VendedorRequest.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\DTOs\\VendedorRequest.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\DTOs\\VendedorRequest.cs",
+              "RelativeToolTip": "VentasAPI\\DTOs\\VendedorRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T02:13:35.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "VentasAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:52:37.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260510174231_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Migrations\\20260510174231_InitialCreate.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Migrations\\20260510174231_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Migrations\\20260510174231_InitialCreate.cs",
+              "RelativeToolTip": "VentasAPI\\Migrations\\20260510174231_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:42:32.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "VentasAPI\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T16:55:09.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "VentasAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "VentasAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:32:48.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "VentasAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SistemaVentasVendedor\\VentasAPI\\appsettings.json",
+              "RelativeToolTip": "VentasAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-10T17:33:20.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
